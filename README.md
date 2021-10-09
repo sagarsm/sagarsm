@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagarsm
 - 👀 I’m interested solving real worls problems using technology
-- 🌱 I’m currently react, Ionic building new apps
+- 🌱 I’m currently using react, Ionic, firebase for building new apps
 - 💞️ I’m looking to collaborate on any technology that can help solve business problems 
 - 📫 How to reach me ...sagar.mehendale@gmail.com
 

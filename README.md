@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sagarsm
 - 👀 I’m interested solving real world problems using technology
-- 🌱 I’m currently using react, Ionic, firebase for building new apps
+- 🌱 I previously used react, Ionic, firebase for building new apps
+- 🌱 I am currently exploring building AI Agents via open source LLM frameworks like langchain
 - 💞️ I’m looking to collaborate on any technology that can help solve business problems 
 - 📫 How to reach me ...sagar.mehendale@gmail.com
 
